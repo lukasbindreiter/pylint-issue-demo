@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e81a4f186e29dfba8fca0eae16f49579b452f1472c35e0fb49b955956d94afa8"
+            "sha256": "f391c4fb76f0cba0859311f99202610025948cdaf3becc2edf143c604c493d83"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,10 @@
         ]
     },
     "default": {
+        "fruit1": {
+            "editable": true,
+            "path": "./fruit1"
+        },
         "numpy": {
             "hashes": [
                 "sha256:092f5e6025813e64ad6d1b52b519165d08c730d099c114a9247c9bb635a2a450",
