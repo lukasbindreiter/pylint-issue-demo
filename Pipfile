@@ -8,7 +8,8 @@ pylint = "*"
 isort = "*"
 
 [packages]
-fruit1 = {editable = true,path = "./fruit1"}
+apple = {editable = true,path = "./apple"}
+banana = {editable = true,path = "./banana"}
 numpy = "*"
 
 [requires]

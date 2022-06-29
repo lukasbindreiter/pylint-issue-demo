@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f391c4fb76f0cba0859311f99202610025948cdaf3becc2edf143c604c493d83"
+            "sha256": "3c5e965269183146a7235854833b1bae20c527ded55f79b17bc391781d7fc1d0"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,9 +16,13 @@
         ]
     },
     "default": {
-        "fruit1": {
+        "apple": {
             "editable": true,
-            "path": "./fruit1"
+            "path": "./apple"
+        },
+        "banana": {
+            "editable": true,
+            "path": "./banana"
         },
         "numpy": {
             "hashes": [
