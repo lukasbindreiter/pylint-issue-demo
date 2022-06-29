@@ -8,8 +8,6 @@ pylint = "*"
 isort = "*"
 
 [packages]
-functional-u = {editable = true,path = "./functional-u"}
-functional-w = {editable = true,path = "./functional-w"}
 numpy = "*"
 
 [requires]

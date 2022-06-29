@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0845118750624bf9ab837129292f787e5d30220e3ef945c222701a877afbd90e"
+            "sha256": "e81a4f186e29dfba8fca0eae16f49579b452f1472c35e0fb49b955956d94afa8"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,14 +16,6 @@
         ]
     },
     "default": {
-        "functional-u": {
-            "editable": true,
-            "path": "./functional-u"
-        },
-        "functional-w": {
-            "editable": true,
-            "path": "./functional-w"
-        },
         "numpy": {
             "hashes": [
                 "sha256:092f5e6025813e64ad6d1b52b519165d08c730d099c114a9247c9bb635a2a450",
@@ -134,11 +126,11 @@
         },
         "pylint": {
             "hashes": [
-                "sha256:4e1378f815c63e7e44590d0d339ed6435f5281d0a0cc357d29a86ea0365ef868",
-                "sha256:6757a027e15816be23625b079ebc45464e4c9d9dde0c826d18beee53fe22a2e7"
+                "sha256:47705453aa9dce520e123a7d51843d5f0032cbfa06870f89f00927aa1f735a4a",
+                "sha256:89b61867db16eefb7b3c5b84afc94081edaf11544189e2b238154677529ad69f"
             ],
             "index": "pypi",
-            "version": "==2.14.3"
+            "version": "==2.14.4"
         },
         "tomli": {
             "hashes": [
