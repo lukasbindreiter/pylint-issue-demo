@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3c5e965269183146a7235854833b1bae20c527ded55f79b17bc391781d7fc1d0"
+            "sha256": "f0d244fd6a46098f9b170b9e75db5e89f53bfd76fce8b10d100fef520535c677"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -19,6 +19,10 @@
         "apple": {
             "editable": true,
             "path": "./apple"
+        },
+        "astroid": {
+            "git": "https://github.com/PyCQA/astroid",
+            "ref": "a6fdf0b92af0190dfc8334a69548919cc7130204"
         },
         "banana": {
             "editable": true,
@@ -55,11 +59,8 @@
     },
     "develop": {
         "astroid": {
-            "hashes": [
-                "sha256:4f933d0bf5e408b03a6feb5d23793740c27e07340605f236496cd6ce552043d6",
-                "sha256:ba33a82a9a9c06a5ceed98180c5aab16e29c285b828d94696bf32d6015ea82a9"
-            ],
-            "version": "==2.11.6"
+            "git": "https://github.com/PyCQA/astroid",
+            "ref": "a6fdf0b92af0190dfc8334a69548919cc7130204"
         },
         "dill": {
             "hashes": [
@@ -157,11 +158,11 @@
         },
         "typing-extensions": {
             "hashes": [
-                "sha256:6657594ee297170d19f67d55c05852a874e7eb634f4f753dbd667855e07c1708",
-                "sha256:f1c24655a0da0d1b67f07e17a5e6b2a105894e6824b92096378bb3668ef02376"
+                "sha256:25642c956049920a5aa49edcdd6ab1e06d7e5d467fc00e0506c44ac86fbfca02",
+                "sha256:e6d2677a32f47fc7eb2795db1dd15c1f34eff616bcaf2cfb5e997f854fa1c4a6"
             ],
             "markers": "python_version < '3.10'",
-            "version": "==4.2.0"
+            "version": "==4.3.0"
         },
         "wrapt": {
             "hashes": [

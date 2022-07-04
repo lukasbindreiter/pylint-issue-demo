@@ -11,6 +11,7 @@ isort = "*"
 apple = {editable = true,path = "./apple"}
 banana = {editable = true,path = "./banana"}
 numpy = "*"
+astroid = {git = "https://github.com/PyCQA/astroid"}
 
 [requires]
 python_version = "3.8"
